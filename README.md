@@ -40,9 +40,7 @@ This section pulls from the same segment-level data as the revenue section. The 
 ![EBIT](DCF/EBIT.png)
 
 ## Additional Sections
-After making these first two sections, we can then use the templates that we have made to add additional sections needed for the DCF calculations:
-
-- Tax
+After making these first two sections, we can then use the templates that we have made to add additional sections needed for the DCF calculations
 
 ### Taxes
 
