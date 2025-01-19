@@ -115,8 +115,6 @@ All filled out, it looks like this:
 =L71+L73-L77-L80
 ```
 
-[Add thing about PV and calculating WACC]
-
 ## WACC Calculation
 WACC, or the "Weighted Average Cost of Capital," is a measure of a firm's average after-tax cost of capital from all sources (common & preferred stock, bonds, and other forms of debt). The riskier a firm is, the more that investors would expect to be compensated for investing, so conceptually, WACC represents the minimum rate of return a company needs to generate to satisfy its investors.
 
