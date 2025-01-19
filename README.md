@@ -1,5 +1,7 @@
 Note: This DCF is based on a DCF tutorial done by ['rareliquid'](https://www.youtube.com/watch?v=fmoE3H8RjP4&list=PL71QplJWp1Rpzqr4q1nq5b4Im93JkGcwm&index=29) 
 
+Please see the completed Excel file here: [Excel_for_DCF](2024.08.-DCF-Tutorial-Part-1.xlsx)
+
 # Initial Excel Template
 The Excel includes tabs with financial data for the fiscal years 2014-2024:
 - CapEx, Cash Flow Statement, Income Statement, Segment Income Statement
